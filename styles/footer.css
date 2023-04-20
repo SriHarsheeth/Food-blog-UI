@@ -1,0 +1,44 @@
+.main-page{
+    margin: 0;
+    padding: 0;
+}
+.main-container-footer{
+    margin:20px auto;
+    width: 550px;
+    display: block;
+    text-align: center;
+    background-color: antiquewhite;
+}
+.main-container h1{
+        font-family: "Playfair Display", serif;
+        font-size: 30px;
+    font-weight: 900;
+}
+.main-container h1 span{
+    color: yellow;
+    font-size: 60px;
+}
+.main-container p{
+    color: #999999;
+    font-family: "Poppins", Arial, sans-serif;
+    font-size: 18px;
+    margin: 20px auto;
+}
+.main-container input{
+    margin: 10px auto;
+    height: 50px;
+    background-color: silver;
+    border-radius: 5px;
+    width: 350px;
+    position: relative;
+}
+.main-container button{
+    height: 50px;
+    color: white;
+    background-color: black;
+    position: absolute;
+    top: 60px;
+    right: 20px;
+
+}
+

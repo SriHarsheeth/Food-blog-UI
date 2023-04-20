@@ -1,0 +1,23 @@
+.main-nav{
+    margin: 0;
+    padding: 0;
+}
+.main-container{
+    
+    width: 85%;
+    /* height: 60px; */
+    margin: auto;
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+}
+.main-container .nav-right {
+   
+    display: flex;
+    justify-content: space-evenly;
+}
+.main-container .nav-right a{
+    text-decoration: none;
+    margin-left: 40px;
+    color: black;
+}

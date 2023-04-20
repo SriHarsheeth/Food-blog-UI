@@ -1,0 +1,85 @@
+/* 
+<div className='signup'>
+<div className='signup-container'>
+<div className='signup-container-left'>
+<form>
+<h1>Sign up</h1>
+<i className='bx bxs-user'></i><input type='text' placeholder=' Your Name '/>
+<div><i className='bx bxs-envelope' ></i><input type='email' placeholder='Your Email '/></div>
+<div>   <i className='bx bx-lock-alt' ></i><input type='password' placeholder='Your Password'/></div>
+<i className='bx bxs-lock-alt' ></i><input type='text' placeholder='Repeat Your Password'/>
+<div className='checkbox '  >
+
+<input type='checkbox' className='checkbox'/>
+<h6>I agree all statements in Terms of service </h6> 
+</div>
+<button>Register</button>
+</form>
+
+
+
+</div>
+<div className='signup-container-right'>
+<img src='https://colorlib.com/etc/regform/colorlib-regform-7/images/signup-image.jpg' alt='image'/>
+<a> I am Already  member</a>
+</div>
+
+</div>
+
+ </div> */
+
+
+
+/* .signup{
+    margin: 0;
+    padding-top: 112px;
+    width: 100vw;
+    height: 100vh;
+    background-color: beige;
+}
+.signup-container{
+  display: flex;
+  margin: auto;
+    width: 800px;
+    height: auto;
+    border-radius: 10px;
+    background-color: white;
+}
+.signup-container-left{
+    margin: 60px auto;
+   
+    padding-left: 20px;
+    display: flex;
+  
+    justify-content: center;
+    width: 50%;
+}
+
+.signup-container-left form input{
+   border-left:0px ;
+   border-right:0px ;
+   border-top:0px ;
+   border-width:  1px;
+    margin: 10px;
+}
+.signup-container-left form .checkbox{
+    display: flex;
+    align-items: center;
+
+}
+.signup-container-left form button{
+    background-color: skyblue;
+    border: none;
+    color: white;
+    display: flex;
+    padding: 10px 30px;
+    justify-content: center;
+    margin: auto;
+    border-radius: 10px;
+
+}
+.signup-container-right{
+    width: 50%;
+    margin: 60px auto;
+   
+} */

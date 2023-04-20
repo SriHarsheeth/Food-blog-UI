@@ -1,0 +1,51 @@
+.main-page{
+    margin: 0;
+    padding: 0;
+}
+.main-container-about{
+    width: 93%;
+    margin: auto;
+    display: flex;
+}
+.main-container-about .left-container{
+    width:45%;
+  
+    background-image: url("https://preview.colorlib.com/theme/stories/images/about.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 647px;
+}
+
+.main-container-about .right-container{
+    padding-left: 45px;
+    width: 55%;
+    
+
+}
+.right-container .far{
+    color:#999999  ;
+    font-family: "Poppins", Arial, sans-serif;
+    font-size: 20px;
+}
+.containers{
+   
+    margin-top: 20px;
+    display: grid;
+    grid-template-columns: 300px 300px;
+    row-gap: 50px;
+}
+
+.container{
+   
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+    padding:50px 20px;
+    height: 180px;
+    width: 250px;
+    align-items: center;
+    color: black;
+    background-color: #999999;
+    
+}
